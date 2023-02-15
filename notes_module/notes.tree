@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://helpserver.labs.jb.gg/help/schemas/mvp/product-profile.dtd">
+
+<instance-profile id="notes"
+                  name="BeanSoft Notes"
+                  start-page="About BeanSoft Notes.topic">
+
+    <toc-element topic="About BeanSoft Notes.topic"/>
+</instance-profile>
