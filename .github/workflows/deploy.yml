@@ -20,18 +20,18 @@ env:
 
 jobs:
   build-job:
-  runs-on: ubuntu-latest
-  steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
-    - name: Build Writerside docs using Docker
-      uses: JetBrains/writerside-github-action@v2
-    - name: Upload artifact
-      uses: actions/upload-artifact@v3
-      with:
-        name: help
-        path: artifacts/${{ env.ARTIFACT }}
-        retention-days: 7
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      - name: Build Writerside docs using Docker
+        uses: JetBrains/writerside-github-action@v3
+      - name: Upload artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: help
+          path: artifacts/${{ env.ARTIFACT }}
+          retention-days: 7
     #Add the step below to upload Algolia indexes
 #    - name: Upload artifact
 #      uses: actions/upload-artifact@v3
