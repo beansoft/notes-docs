@@ -4,6 +4,11 @@
 <ihp version="2.0">
     <categories src="c.list"/>
     <topics dir="topics"/>
+    <!-- The default value of web-pat is empty, so it can't load image if you put the site under something like:
+    https://beansoft.github.io/notes-docs/ , and all images is trying to load at https://beansoft.github.io/image.png.
+
+    So here with GitHub Action, I must specify the web-path, otherwise can't publish images in the sub directory.
+    For marketplace setup, image's path MUST be `img/`-->
     <images dir="images" web-path="img/" version="1.0"/>
     <vars src="v.list"/>
 
