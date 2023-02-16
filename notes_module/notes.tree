@@ -3,8 +3,9 @@
         SYSTEM "https://helpserver.labs.jb.gg/help/schemas/mvp/product-profile.dtd">
 
 <instance-profile id="notes"
-                  name="BeanSoft Notes"
-                  start-page="About BeanSoft Notes.topic">
+                  name="Code Notes"
+                  start-page="Introduction.md">
 
     <toc-element topic="About BeanSoft Notes.topic"/>
+    <toc-element topic="Introduction.md"/>
 </instance-profile>
