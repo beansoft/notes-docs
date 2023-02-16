@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buildprofiles xsi:noNamespaceSchemaLocation="https://helpserver.labs.jb.gg/help/schemas/mvp/build-profiles.xsd"
+               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <variables>
+        <download-page>https://plugins.jetbrains.com/plugin/17501-notes/</download-page>
+        <config-download-title>Notes</config-download-title>
+        <config-showDownloadButton>true</config-showDownloadButton>
+        <config-feedback-enabled>false</config-feedback-enabled>
+        <config-feedback-widget>false</config-feedback-widget>
+        <config-feedback-support>null</config-feedback-support>
+        <config-feedback-url>https://github.com/beansoft/iscratch-support/issues</config-feedback-url>
+        <config-webmaster>beansoft@126.com</config-webmaster>
+        <config-sideblocks>true</config-sideblocks>
+<!--        <primary-color>strawberry</primary-color>-->
+        <primary-color>ruby</primary-color>
+<!--        <primary-color>aqua</primary-color>-->
+        <color-preset>vivid</color-preset>
+        <header-logo>jsx_16.svg</header-logo>
+<!--        <config-versions-switcher>-->
+<!--            https://raw.githubusercontent.com/lananovikova10/versions-json/main/help-versions.json-->
+<!--        </config-versions-switcher>-->
+<!--        <custom-video-cover>video-cover.png</custom-video-cover>-->
+
+    </variables>
+    <build-profile instance="notes"/>
+    <footer>
+<!--        <social type="twitter" href="https://twitter.com/JBPlatform/"/>-->
+<!--        <social type="blog" href="https://blog.jetbrains.com/platform/"/>-->
+<!--        <social type="youtube" href="https://www.youtube.com/playlist?list=PLQ176FUIyIUZRWGCFY7G9V5zaM00THymY"/>-->
+        <social type="youtube" href="https://youtu.be/1uhrSAMzo3I"/>
+        <social type="bilibili" href="https://space.bilibili.com/297314170"/>
+        <social type="email" href="mailto:beansoft@126.com"/>
+    </footer>
+</buildprofiles>
