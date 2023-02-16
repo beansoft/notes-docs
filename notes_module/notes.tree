@@ -5,7 +5,13 @@
 <instance-profile id="notes"
                   name="Code Notes"
                   start-page="Introduction.md">
-
-    <toc-element topic="About BeanSoft Notes.topic"/>
     <toc-element topic="Introduction.md"/>
+    <toc-element topic="Install.md"/>
+    <toc-element topic="Tips.md"/>
+    <toc-element topic="Sync-with-Evernote.md"/>
+
+    <toc-element toc-title="中文文档">
+        <toc-element topic="Introduction_CN.md"/>
+    </toc-element>
+    <toc-element topic="Demo.md" hidden="true"/>
 </instance-profile>
