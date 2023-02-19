@@ -3,8 +3,63 @@
 [//]: # (title: Demo)
 [//]: # (<excerpt>标签页等功能演示.</excerpt>)
 
+<tldr>
 
-## 常用代码片段
+**Code**: [`AllIcons`](https://plugins.jetbrains.com/plugin/9564-react-native-console/analytics)
+
+**Platform UI Guidelines:** [Icons list](https://jetbrains.design/intellij/resources/icons_list/), [Icons](https://jetbrains.design/intellij/principles/icons/)
+
+</tldr>
+
+## TL;DR
+Use the <code>&lt;tldr&gt;</code> tag to introduce important facts or prerequisites about the feature you describe. Place it as
+the first element of a topic and wrap each fact with the <code>&lt;p&gt;</code> tag.
+<p>There can be only one <code>&lt;tldr&gt;</code> element per page.</p>
+Use <code>&lt;tldr&gt;</code> only for introducing small amounts of information. We don' recommend using more than three elements
+inside of it.
+
+## Glossary
+
+A definition list or a glossary:
+
+Notes
+: ![limited support](icon-limited.svg)limited support
+
+
+![via a plugin](icon-via-plugin.svg)depends on JavaScript plugin in IDEA Ultimate / WebStorm / GoLand / PhpStorm / Pycharm / RubyMine / AppCode / Clion / Rider etc
+
+![limited support](icon-limited.svg)limited support
+
+![available](icon-available.svg)available
+
+{collapsible="true"}
+Expanded by default
+{collapsible="true" default-state="expanded"}
+: This is the definition of the first term.
+
+Collapsed by default
+{collapsible="true" default-state="collapsed"}
+: This is the definition of the second term.
+
+## 缩进块代码
+前面加上缩进后（选中后按下`Tab`键），纯文本内容会自动放进一个无边框区域内，相当于代码块。
+
+    Use the <code>&lt;tldr&gt;</code> tag to introduce important facts or prerequisites about the feature you describe. Place it as
+    the first element of a topic and wrap each fact with the <code>&lt;p&gt;</code> tag.
+    <p>There can be only one <code>&lt;tldr&gt;</code> element per page.</p>
+    Use <code>&lt;tldr&gt;</code> only for introducing small amounts of information. We don' recommend using more than three elements
+    inside of it.
+
+## 段落折叠 {collapsible="true" id="unique-id"}
+
+The content.
+
+### {title="Nested chapter's title" id="yet-another-unique-id"}
+<title>The title that overrides Nested chapter's title</title>
+
+The content.
+
+## 代码折叠
 ```java
 class Main {
     public static void main(String[] args) {
@@ -29,6 +84,71 @@ class Main {
 {collapsible="true" default-state="expanded"
 collapsed-title="Title to display when a block is collapsed"}
 
+
+```shell
+sudo tar -xzf the-package-*.tar.gz -C /opt
+```
+{prompt="$"}
+
+
+## Include a block from another folder {id="include-from-another-folder"}
+
+To include the code example from another file in the repository:
+
+Specify the name of the directory where you will place the code files
+in the `snippets` attribute of the `project.ihp` file.
+
+`<snippets src="directoryName"/>`
+
+To include content from other files, use `src` attribute and specify the filename.
+
+[//]: # (The source file must be located under the `codeSnippets` directory.)
+
+To specify a specific line range or comma-separated list to include, use `include-lines` attribute.
+
+To specify a specific code construct, like, method or class, use `include-symbol` attribute.
+
+<table>
+<tr>
+    <td>Markup</td>
+    <td>Result</td>
+</tr>
+<tr>
+<td>
+
+```
+&#96;&#96;&#96;kotlin
+&#96;&#96;&#96;
+{src="newTest.kt" include-lines="2-4"}
+```
+
+</td>
+<td>
+
+```kotlin
+```
+{src="newTest.kt" include-lines="2-4"}
+
+</td>
+</tr>
+<tr>
+<td>
+
+```
+&#96;&#96;&#96;kotlin
+&#96;&#96;&#96;
+{src="newTest.kt" include-symbol="hello"}
+```
+</td>
+<td>
+
+```kotlin
+```
+{src="newTest.kt" include-symbol="hello"}
+
+</td>
+</tr>
+</table>
 
 ## control
 
@@ -179,3 +299,9 @@ plugins {
         <p>This is Java theory.</p>
     </tab>
 </tabs>
+
+
+## Video
+Use `<video>` tag to add local videos or links to videos from YouTube, or Vimeo.
+
+<video src="https://www.youtube.com/watch?v=1uhrSAMzo3I" />

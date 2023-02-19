@@ -13,7 +13,7 @@ Only notes content created by Notes plugin is displayed in your IDE tool window 
 
 **Evernote Developer Tokens**
 
-Developer tokens allow you to use the Evernote API to access your personal Evernote account. To learn more about using developer tokens, visit [dev.evernote.com](dev.evernote.com).
+Developer tokens allow you to use the Evernote API to access your personal Evernote account. To learn more about using developer tokens, visit [https://dev.evernote.com](https://dev.evernote.com).
 
 Protect this token as carefully as you protect your Evernote password! Anybody with access to this token has full access to your Evernote account. You can revoke this token at any time by returning to this page.
 

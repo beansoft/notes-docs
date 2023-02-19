@@ -44,21 +44,6 @@
 * [x] 多达 300 种代码格式高亮
 * [x] ......
 
-## Glossary
-
-A definition list or a glossary:
-
-Notes
-: Here refers to the Notes plugin.
-
-
-![via a plugin](icon-via-plugin.svg)depends on JavaScript plugin in IDEA Ultimate / WebStorm / GoLand / PhpStorm / Pycharm / RubyMine / AppCode / Clion / Rider etc
-
-![limited support](icon-limited.svg)limited support
-
-![available](icon-available.svg)available
-
-
 > 请确保你的 IDEA, Android Studio 版本 >= 2020.3+
 > 
 > 当然如果插件有更新，请确保更新到最新版本
