@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://helpserver.labs.jb.gg/help/schemas/mvp/html-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://helpserver.labs.jb.gg/help/schemas/mvp/topic.v2.xsd"
+       title="2023.1.0 EAP">
+    <web-file-name>whats-new.html</web-file-name>
+<!--    <show-structure depth="0"/>-->
+<!--    <show-structure for="procedure,chapter"/>-->
+
+    <note>This version requires JetBrains IDE 2022.3+, we'll backport features to IDE 2022.2 in the next version.</note>
+
+    <chapter title="New">
+<!--        <list style="bullet">-->
+<!--            <li>-->
+<!--                Add image file to a new note(n).-->
+<!--            </li>-->
+<!--            <li>-->
+
+<!--            </li>-->
+<!--        </list>-->
+        <procedure title="Attachments Tab" collapsible="false"  style="choices" default-state="expanded">
+            <step>Attach File</step>
+            <step>Open Attachment</step>
+            <step>Remove Attachment</step>
+            <step>Rename Attachment</step>
+        </procedure>
+        <deflist>
+            <def title="Add image file to a new note">
+                <warning>Only linked to and the fill will not be saved as attachment.</warning>
+            </def>
+        </deflist>
+    </chapter>
+
+    <chapter title="Fixed">
+        <list style="bullet">
+            <li>
+                <a href="https://youtrack.jetbrains.com/issue/WRS-916">WRS-916</a> Sort filter values despite the exclamation
+                mark in 'Sort filter values and remove duplicates' intention when several values are in the filter
+            </li>
+            <li>
+                <a href="https://youtrack.jetbrains.com/issue/WRS-1109">WRS-1109</a> Filter elements are not resolved in`use-filter`
+                near a space or a misplaced negation
+            </li>
+        </list>
+    </chapter>
+
+
+
+
+</topic>
+
