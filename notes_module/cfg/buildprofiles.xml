@@ -4,7 +4,7 @@
                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <variables>
         <download-page>https://plugins.jetbrains.com/plugin/17501-notes/</download-page>
-        <config-download-title>Get Notes</config-download-title>
+        <config-download-title>Get</config-download-title>
         <config-showDownloadButton>true</config-showDownloadButton>
         <config-feedback-enabled>false</config-feedback-enabled>
         <config-feedback-widget>false</config-feedback-widget>

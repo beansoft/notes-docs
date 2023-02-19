@@ -1,4 +1,6 @@
-[//]: # (title: Installaction)
+# Installation
+
+How to install and management the Notes plugin.
 
 ## Prerequisites
 
@@ -15,7 +17,7 @@ IDEs include IDEA CE, IDEA Ultimate, WebStorm, Android Studio, PhpStorm, RubyMin
 
 2. JBR(JetBrains Runtime)
 
-   **Android Studio needs JBR to View Richtext Evernote content and Markdown Preview**
+   **Android Studio needs JBR to View Rich-text Evernote content and Markdown Preview**
 > You can install jbr with jcef in the following way:
 >
 > 1. Install the plugin “Choose Runtime”
@@ -37,7 +39,7 @@ IDEs include IDEA CE, IDEA Ultimate, WebStorm, Android Studio, PhpStorm, RubyMin
 
 1. Go to the plugin page at [https://plugins.jetbrains.com/plugin/17501-notes/versions](https://plugins.jetbrains.com/plugin/17501-notes/versions).
 2. Click <control>Get</control> and download a ZIP archive.
-3. Open <path> Settings/Preferences | Plugins </path>.
+3. Open <path> Settings/Preferences | Plugins </path> <shortcut key="ShowSettings" />.
 4. Click ![Settings](gearPlain.svg)button in the top-right corner and then select <control>Install Plugin from Disk…</control>.
 5. Select the archive and click <control>OK</control>.
 
@@ -52,8 +54,8 @@ IDEs include IDEA CE, IDEA Ultimate, WebStorm, Android Studio, PhpStorm, RubyMin
 ## Uninstall the Notes plugin
 
 > You can always disable the Notes plugin by clearing the checkbox to the right of its name.
-> 
-> style="tip"
+>
+{style="note"}
 
 1. In the <ui-path>Settings/Preferences</ui-path> dialog <shortcut key="ShowSettings" /> , select <ui-path>Plugins</ui-path>.
 2. In the <ui-path>Plugins</ui-path> dialog, switch to the <ui-path>Installed</ui-path> tab.

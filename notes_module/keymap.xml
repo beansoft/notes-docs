@@ -11,4 +11,10 @@
         <Shortcut layout="primary_Windows">Ctrl+Alt+S</Shortcut>
         <Shortcut layout="primary_macOS">⌘+,</Shortcut>
     </Action>
+
+<!--    <Action id="$AddNotes">-->
+<!--        <Description>Add to Code Notes</Description>-->
+<!--        <Shortcut layout="primary_Windows">Alt+M</Shortcut>-->
+<!--        <Shortcut layout="primary_macOS">⌥ M</Shortcut>-->
+<!--    </Action>-->
 </Keymap>

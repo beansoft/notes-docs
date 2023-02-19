@@ -5,6 +5,7 @@
        xsi:noNamespaceSchemaLocation="https://helpserver.labs.jb.gg/help/schemas/mvp/topic.v2.xsd"
        title="2023.1.0 EAP">
     <web-file-name>whats-new.html</web-file-name>
+    <!-- show-structure depth="0" 会彻底禁用侧面导航栏 -->
 <!--    <show-structure depth="0"/>-->
 <!--    <show-structure for="procedure,chapter"/>-->
 
@@ -19,15 +20,21 @@
 
 <!--            </li>-->
 <!--        </list>-->
-        <procedure title="Attachments Tab" collapsible="false"  style="choices" default-state="expanded">
+        <procedure title="Attachments Tab" collapsible="false"  style="choices"  default-state="expanded">
             <step>Attach File</step>
             <step>Open Attachment</step>
             <step>Remove Attachment</step>
             <step>Rename Attachment</step>
         </procedure>
-        <deflist>
+        <deflist style="full" default-state="expanded">
             <def title="Add image file to a new note">
                 <warning>Only linked to and the fill will not be saved as attachment.</warning>
+            </def>
+
+            <def title="Support the JetBrains new UI">
+                <list>
+                    <li>Most icons resigned.</li>
+                </list>
             </def>
         </deflist>
     </chapter>
@@ -35,18 +42,24 @@
     <chapter title="Fixed">
         <list style="bullet">
             <li>
-                <a href="https://youtrack.jetbrains.com/issue/WRS-916">WRS-916</a> Sort filter values despite the exclamation
-                mark in 'Sort filter values and remove duplicates' intention when several values are in the filter
+                Focus current project doesn't filtering folder list correctly.
             </li>
             <li>
-                <a href="https://youtrack.jetbrains.com/issue/WRS-1109">WRS-1109</a> Filter elements are not resolved in`use-filter`
-                near a space or a misplaced negation
             </li>
         </list>
     </chapter>
 
 
+    <chapter title="Improved">
+        <list style="bullet">
+            <li>
+                Virtual folder dialog now sort alphabetically by default.
+            </li>
+            <li>
 
+            </li>
+        </list>
+    </chapter>
 
 </topic>
 
