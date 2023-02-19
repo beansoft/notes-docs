@@ -1,7 +1,9 @@
 # Quick Start
 [//]: # (<excerpt>Setup and Use Notes in One Minutes.</excerpt>)
 
-Get started in 1 minute
+Setup and use Notes in just one minute.
+
+Get started in one minute
 :
 1. Open any project in your IDE.
 2. 点击开发工具底部 `⭐代码笔记` 工具窗口

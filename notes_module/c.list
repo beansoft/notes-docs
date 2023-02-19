@@ -3,4 +3,10 @@
 
 <categories>
     <category id="see_also" name="See Also" order="1"/>
+    <category id="ext" name="External resources"
+              order="1"/>
+    <category id="tutorials" name="Tutorials"
+              order="2"/>
+    <category id="how-to" name="How to's"
+              order="3"/>
 </categories>

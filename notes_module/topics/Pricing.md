@@ -1,5 +1,7 @@
 # Pricing
 
+Pricing model of the Notes Plugin.
+
 > 20% discount for uninterrupted subscription for 2nd year, 40% discount for uninterrupted subscription for 3rd year onwards.
 > 12 months of uninterrupted subscription payments qualify you for receiving a [perpetual fallback license](https://sales.jetbrains.com/hc/en-gb/articles/207240845-What-is-perpetual-fallback-license-).
 >
