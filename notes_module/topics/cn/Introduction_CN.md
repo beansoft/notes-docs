@@ -2,7 +2,12 @@
 
 为程序员笔记而生
 
-代码笔记的目标是成为一款最好的适合程序员使用的笔记和书签管理软件, 不离开IDE完成创建修改搜索代码笔记功能, 支持 SQLite 本地数据库存储或者Evernote存储, 支持查看Evernote网页笔记和图片.
+代码笔记是一款超好用的适合程序员在JetBrains产品线使用的代码笔记和书签管理软件, 手不离IDE即可完成创建修改搜索代码笔记功能, 支持附件管理，支持 SQLite
+本地数据库存储或者Evernote存储, 支持阅读Evernote笔记和图片. 详细中文说明请滚动到本页面底部. 
+
+B站视频:
+<a href="https://www.bilibili.com/video/BV1YW4y1y7DP">IDEA超好用的代码笔记插件 - Notes,
+国产插件就是牛</a>
 
 [![Notes](https://img.shields.io/badge/plugin-Notes-x.svg?logo=IntelliJ%20IDEA)
 ![Version](https://img.shields.io/jetbrains/plugin/v/17501?logo=IntelliJ%20IDEA) 
@@ -26,13 +31,13 @@
 
 ### 功能 💯
 
-* [x] 类似于 Mac 备忘录的操作界面
-* [x] 自动保存代码和笔记
-* [x] 支持附件(需要Notes 2022.3.2版及更高)
-* [x] SearchEveryWhere 支持
-* [x] Evernote 同步支持
-* [x] 多达 300 种代码格式高亮
-* [x] ......
+* ✅ 类似于 Mac 备忘录的操作界面
+* ✅ 自动保存代码和笔记
+* ✅ 支持附件(需要Notes 2023.1.0版及更高)
+* ✅ SearchEveryWhere 支持
+* ✅ Evernote 同步支持
+* ✅ 多达 300 种代码格式高亮
+* ✅ ......
 
 > 请确保你的 IDEA, Android Studio 版本 >= 2020.3+
 > 
