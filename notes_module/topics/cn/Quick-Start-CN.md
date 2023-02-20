@@ -7,8 +7,9 @@
 2. 点击开发工具底部 `⭐代码笔记` 工具窗口（如果启用了新 UI，可以尝试先点击 ![](moreHorizontal@20x20.svg) 按钮)
 3. 点击蓝色字体 `在用户目录创建数据库`
 4. 打开任意程序或图片文件，选择要添加进入笔记的文本或者在编辑器间隔区右键点击
-5. 按下 <shortcut key="$AddNotes" />快捷键,  按下 <shortcut key="ShowIntentionActions" /> 或者点击鼠标右键, 选择 `将所选代码添加到笔记 ...`
+5. 按下 <shortcut key="$AddNotes" />快捷键,  按下 <shortcut key="ShowIntentionActions" /> 或者点击鼠标右键, 选择 `添加到代码笔记 ...`
 6. 添加标题, 代码笔记成功保存到了 `⭐代码笔记` 工具窗口
+7. 鼠标右键点击编辑器笔记图标 - 定位笔记；拖动笔记 - 移动行号
 
 
 <seealso style="cards">

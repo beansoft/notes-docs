@@ -11,7 +11,7 @@
 
     <note>This version requires JetBrains IDE 2022.3+, we'll backport features to IDE 2022.2 in the next version.</note>
 
-    <chapter title="New">
+    <chapter title="🆕New">
 <!--        <list style="bullet">-->
 <!--            <li>-->
 <!--                Add image file to a new note(n).-->
@@ -36,27 +36,29 @@
                     <li>Most icons resigned.</li>
                 </list>
             </def>
+
+            <def title="Editor Gutter Icon New Interaction">
+                <list>
+                    <li><shortcut>RMB</shortcut> - locate note</li>
+                    <li><shortcut>Drag</shortcut> - move line</li>
+                </list>
+            </def>
         </deflist>
     </chapter>
 
-    <chapter title="Fixed">
+    <chapter title="🪲Fixed">
         <list style="bullet">
             <li>
-                Focus current project doesn't filtering folder list correctly.
-            </li>
-            <li>
+                Focus current project doesn't filtering out folder list correctly.
             </li>
         </list>
     </chapter>
 
 
-    <chapter title="Improved">
+    <chapter title="✅Improved">
         <list style="bullet">
             <li>
                 Virtual folder dialog now sort alphabetically by default.
-            </li>
-            <li>
-
             </li>
         </list>
     </chapter>
