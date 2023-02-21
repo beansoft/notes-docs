@@ -185,7 +185,8 @@ Example
 ## 提示信息
 
 > These pages have moved to [JetBrains Marketplace Documentation](https://plugins.jetbrains.com/docs/marketplace). Please update your bookmarks.
-> {style="warning"}
+
+{style="warning"}
 
 <tip>Alternatively, you can change the settings directly in the configuration file.</tip>
 
