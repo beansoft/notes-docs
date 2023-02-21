@@ -1,7 +1,7 @@
 # Quick Start
 [//]: # (<excerpt>Setup and Use Notes in One Minutes.</excerpt>)
 
-> I'm so sorry that version 2023.1.0 EAP has an NPE issue,   as a workaround, you may download the latest version [https://plugins.jetbrains.com/files/17501/295707/Notes.zip](https://plugins.jetbrains.com/files/17501/295707/Notes.zip) and [install plugin from disk](Install.md#download-and-install-plugin-from-disk). 
+> I'm so sorry that version 2023.1.0 EAP has an NPE issue, update to the latest version to fix it. 
 
 {style="warning"}
 
