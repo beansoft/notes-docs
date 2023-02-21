@@ -1,7 +1,7 @@
 # 快速入门
 [//]: # (<excerpt>Setup and Use Notes in One Minutes.</excerpt>)
 
-> 十分抱歉 2023.1.0 EAP 版本出现了空指针异常, 作为临时解决方案, 你可以下载最新版本 [https://plugins.jetbrains.com/files/17501/295698/Notes.zip](https://plugins.jetbrains.com/files/17501/295698/Notes.zip) 然后 [从磁盘安装插件](Install.md#download-and-install-plugin-from-disk).
+> 十分抱歉 2023.1.0 EAP 版本出现了空指针异常, 作为临时解决方案, 你可以下载最新版本 [https://plugins.jetbrains.com/files/17501/295707/Notes.zip](https://plugins.jetbrains.com/files/17501/295707/Notes.zip) 然后 [从磁盘安装插件](Install.md#download-and-install-plugin-from-disk).
 
 {style="warning"}
 

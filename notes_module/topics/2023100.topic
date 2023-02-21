@@ -3,7 +3,7 @@
         SYSTEM "https://helpserver.labs.jb.gg/help/schemas/mvp/html-entities.dtd">
 <topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:noNamespaceSchemaLocation="https://helpserver.labs.jb.gg/help/schemas/mvp/topic.v2.xsd"
-       title="2023.1.0 EAP">
+       title="2023.1.1">
     <web-file-name>whats-new.html</web-file-name>
     <!-- show-structure depth="0" 会彻底禁用侧面导航栏 -->
 <!--    <show-structure depth="0"/>-->
@@ -48,6 +48,9 @@
 
     <chapter title="🪲Fixed">
         <list style="bullet">
+            <li>
+                NPE issue in the plugin.
+            </li>
             <li>
                 Focus current project doesn't filtering out folder list correctly.
             </li>
