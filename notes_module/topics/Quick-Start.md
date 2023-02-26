@@ -15,6 +15,12 @@ Get started in one minute
 4. Open any source code or images, select some text or right-click the editor gutter area
 5. Press keys <shortcut key="$AddNotes" />, <shortcut key="ShowIntentionActions" /> or click RMB, click item `Add to Code Notes ...`
 6. Click <control>Create</control>, then a note will be saved into the `⭐ Notes` Tool Window
+7. A `⭐`icon will appear in the editor gutter, RMB - locate; Drag - move to new line
+8. Click the <control>![](settings.svg)Open Notes Settings</control> toolbar button in the `⭐ Notes` tool window to 
+   browse the `notes.db` database file and attachments storage directory(by default is `_notes`), you can back up or 
+   move 
+   these files 
+   to any 3rd-party file-based sync services such as iCloud, DropBox and OneDrive. 
 
 <video src="https://youtu.be/t8TeARCToco" />
 

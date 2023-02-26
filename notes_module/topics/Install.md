@@ -40,7 +40,7 @@ IDEs include IDEA CE, IDEA Ultimate, WebStorm, Android Studio, PhpStorm, RubyMin
 1. Go to the plugin page at [https://plugins.jetbrains.com/plugin/17501-notes/versions](https://plugins.jetbrains.com/plugin/17501-notes/versions).
 2. Click <control>Get</control> and download a ZIP archive.
 3. Open <path> Settings/Preferences | Plugins </path> <shortcut key="ShowSettings" />.
-4. Click ![Settings](gearPlain.svg)button in the top-right corner and then select <control>Install Plugin from Disk…</control>.
+4. Click ![Settings](settings.svg)button in the top-right corner and then select <control>Install Plugin from Disk…</control>.
 5. Select the archive and click <control>OK</control>.
 
 ## Update an installed Notes plugin

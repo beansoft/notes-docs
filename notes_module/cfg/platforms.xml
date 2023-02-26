@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <platforms>
+    <selector-label>Keyboard shortcuts layout:</selector-label>
     <platform id="primary">
+        <delimiter>+</delimiter>
         <src>keymap-sd.xml</src>
-        <use-keymaps>primary_Windows</use-keymaps>
+        <use-keymaps>primary_Windows,
+            secondary_macOS,
+            primary_GNOME</use-keymaps>
     </platform>
-    <platform id="secondary">
-        <use-keymaps>
-            secondary_macOS
-        </use-keymaps>
-        <src>keymap-sd.xml</src>
-    </platform>
+
+
 </platforms>

@@ -5,6 +5,7 @@
         <Description>Add to Code Notes</Description>
         <Shortcut layout="primary_Windows">Alt+M</Shortcut>
         <Shortcut layout="secondary_macOS">⌥ M</Shortcut>
+        <Shortcut layout="primary_GNOME">Alt+M</Shortcut>
     </Action>
 
    <Action id="$Copy">
