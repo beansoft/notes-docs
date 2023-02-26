@@ -5,9 +5,14 @@
         <delimiter>+</delimiter>
         <src>keymap-sd.xml</src>
         <use-keymaps>primary_Windows,
-            secondary_macOS,
             primary_GNOME</use-keymaps>
     </platform>
 
+    <platform id="secondary">
+        <use-keymaps>
+            secondary_macOS
+        </use-keymaps>
+        <src>keymap-sd.xml</src>
+    </platform>
 
 </platforms>
