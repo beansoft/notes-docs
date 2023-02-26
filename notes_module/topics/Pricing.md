@@ -3,6 +3,8 @@
 
 <tldr>
 
+**Start buying here:** [`Notes Pricing Page`](https://plugins.jetbrains.com/plugin/17501-notes/pricing)
+
 **How to buy a plugin**: [`JetBrains Marketplace doc`](https://plugins.jetbrains.com/docs/marketplace/how-to-buy-a-plugin.html)
 
 **Who is providing sales and technical support?** [`JetBrains / BeanSoft`](https://plugins.jetbrains.com/docs/marketplace/sales-and-technical-support.html)
@@ -72,9 +74,9 @@ then [follow these instructions](https://plugins.jetbrains.com/docs/marketplace/
 Free licenses have to be renewed annually.
 
 If you use a free license, then we would appreciate your review on
-the [JetBrains Marketplace page](https://plugins.jetbrains.com/plugin/9564-react-native-console/reviews).
+the [JetBrains Marketplace page](https://plugins.jetbrains.com/plugin/17501-notes/reviews).
 
-[//]: # (More info about [Free Offer and How to Activate the plugin]&#40;free_offer.md&#41;)
+More info about [](Special-Community-Offers.md)
 
 ## Perpetual Fallback License
 

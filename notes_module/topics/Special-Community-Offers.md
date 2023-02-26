@@ -1,5 +1,12 @@
 # Special and Free Offers
 
+<tldr>
+
+**Start buying here:** [`Notes Pricing Page`](https://plugins.jetbrains.com/plugin/17501-notes/pricing)
+
+**How to buy a plugin**: [`JetBrains Marketplace doc`](https://plugins.jetbrains.com/docs/marketplace/how-to-buy-a-plugin.html)
+</tldr>
+
 Notes plugin provide special subscription and pricing offers for different types of individuals and organizations (student, open-source, etc.), in alignment with JetBrains’ special offers. You can learn more about the terms and apply to get special status for your account [here](https://www.jetbrains.com/store/#discounts).
 
 Once you have a [JetBrains Account](https://account.jetbrains.com/) status eligible for the offer, you can find offers available for Notes plugin on the plugin pricing page.
