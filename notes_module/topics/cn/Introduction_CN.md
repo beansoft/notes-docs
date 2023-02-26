@@ -9,6 +9,7 @@ B站视频:
 <a href="https://www.bilibili.com/video/BV1YW4y1y7DP">IDEA超好用的代码笔记插件 - Notes,
 国产插件就是牛</a>
 
+
 [![Notes](https://img.shields.io/badge/plugin-Notes-x.svg?logo=IntelliJ%20IDEA)
 ![Version](https://img.shields.io/jetbrains/plugin/v/17501?logo=IntelliJ%20IDEA) 
 ![Downloads](https://img.shields.io/jetbrains/plugin/d/17501?color=FE2857) 

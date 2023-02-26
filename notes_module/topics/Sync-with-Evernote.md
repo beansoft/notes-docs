@@ -4,14 +4,16 @@ From version 2022.1.1, the Notes plugin supports sync with Evernote. An Evernote
 
 Only notes content created by Notes plugin is displayed in your IDE tool window and connected to the source editor, your original Evernote content is safe and untouched, and can be viewed in your IDE. This content is treated as plain text, which is also displayed in your Evernote Desktop/Mobile/Web app, with a tag marked "iNotes", you can view and edit them. No formatting is supported in code notes created, if you edit the notes in Evernote, the content in Notes will omit all style info.
 
-**Android Studio needs JBR to View Richtext Evernote content**
+## Android Studio needs JBR to View Rich-text Evernote content
 > You can install jbr with jcef in the following way:
 >
 > 1. Install the plugin “Choose Runtime”
 > 2. Select the corresponding jbr version to download through the link, which must have JCEF. https://confluence.jetbrains.com/display/JBR/Release+notes+and+builds
 > 3. Refer to [Selecting-the-JDK-version-the-IDE-will-run-under](https://intellij-support.jetbrains.com/hc/en-us/articles/206544879-Selecting-the-JDK-version-the-IDE-will-run-under), select the downloaded jbr.
 
-**Evernote Developer Tokens**
+{style="note"}
+
+## Evernote Developer Tokens
 
 Developer tokens allow you to use the Evernote API to access your personal Evernote account. To learn more about using developer tokens, visit [https://dev.evernote.com](https://dev.evernote.com).
 

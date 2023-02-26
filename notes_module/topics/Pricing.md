@@ -1,5 +1,13 @@
 # Pricing
 
+
+<tldr>
+
+**How to buy a plugin**: [`JetBrains Marketplace doc`](https://plugins.jetbrains.com/docs/marketplace/how-to-buy-a-plugin.html)
+
+**Who is providing sales and technical support?** [`JetBrains / BeanSoft`](https://plugins.jetbrains.com/docs/marketplace/sales-and-technical-support.html)
+</tldr>
+
 Pricing model of the Notes Plugin.
 
 > 20% discount for uninterrupted subscription for 2nd year, 40% discount for uninterrupted subscription for 3rd year onwards.
@@ -30,9 +38,18 @@ These licenses are bought by legal entities, including companies, for-profit and
 | 2nd year         |  $ 2.30 | $ 23.00 |
 | 3rd year onwards |  $ 1.70 | $ 17.00 |
 
-## 30-Day Trial
 
-An option to try this plugin for free. Get access to the Notes plugin for 30 days free of charge!
+## Evaluate for free
+
+Notes plugins come with a 30-day free trial period, so you can test them out before buying a license:
+
+1.  Use the “Search” field with `Notes` keyword in the <control>Plugin Manager</control> to find the plugin.
+
+2.  <control>Install</control> the plugin and restart your IDE.
+
+    <note> You will need to restart the IDE every time you install a paid plugin. If you skip this step, the plugin will be disabled.</note>
+
+3.  Activate the trial-period by selecting “Evaluate for free” in the license activation window that pops up.
 
 ## Payment
 

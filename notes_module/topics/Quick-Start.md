@@ -16,6 +16,7 @@ Get started in one minute
 5. Press keys <shortcut key="$AddNotes" />, <shortcut key="ShowIntentionActions" /> or click RMB, click item `Add to Code Notes ...`
 6. Click <control>Create</control>, then a note will be saved into the `⭐ Notes` Tool Window
 
+<video src="https://youtu.be/t8TeARCToco" />
 
 <seealso style="cards">
        <category ref="how-to">

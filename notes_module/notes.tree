@@ -6,11 +6,14 @@
                   name="Code Notes"
                   start-page="Introduction.md">
     <toc-element topic="Introduction.md"/>
-    <toc-element topic="Pricing.md"/>
+    <toc-element topic="Pricing.md">
+    </toc-element>
+    <toc-element topic="Special-Community-Offers.md"/>
     <toc-element topic="Quick-Start.md"/>
     <toc-element topic="Install.md"/>
     <toc-element topic="Tips.md"/>
     <toc-element topic="Sync-with-Evernote.md"/>
+    <toc-element topic="LICENSE.md"/>
     <toc-element topic="Roadmap.md"/>
     <toc-element toc-title="What's new">
         <toc-element topic="2023100.topic"/>

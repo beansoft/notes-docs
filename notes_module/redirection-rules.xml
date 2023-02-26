@@ -5,4 +5,8 @@
         <description>Created after removal of "Tutorial" from Code Notes</description>
         <accepts>Tutorial.html</accepts>
     </rule>
+    <rule id="4876139b">
+        <description>Created after removal of "Free Offer" from Code Notes</description>
+        <accepts>FreeOffer.html</accepts>
+    </rule>
 </rules>
