@@ -6,8 +6,8 @@ How to install and management the Notes plugin.
 
 1. A JetBrains IDE 2020.3+
 
-Install an IDE if you don't have one from [Jetbrains](https://www.jetbrains.com/?from=ReactNativeConsole)
-or [Android Studio](https://developer.android.com/sdk/installing/studio.html). Notes supports all major Jetbrains
+Install an IDE if you don't have one from [Jetbrains](https://www.jetbrains.com)
+or [Android Studio](https://developer.android.com/sdk/installing/studio.html). Notes support all major Jetbrains
 IDEs include IDEA CE, IDEA Ultimate, WebStorm, Android Studio, PhpStorm, RubyMine and GoLand and so on.
 
 
@@ -60,7 +60,7 @@ IDEs include IDEA CE, IDEA Ultimate, WebStorm, Android Studio, PhpStorm, RubyMin
 1. In the <ui-path>Settings/Preferences</ui-path> dialog <shortcut key="ShowSettings" /> , select <ui-path>Plugins</ui-path>.
 2. In the <ui-path>Plugins</ui-path> dialog, switch to the <ui-path>Installed</ui-path> tab.
 3. On the <ui-path>Installed</ui-path> tab, search for **Notes**.
-4. Right-click the **RN Console** plugin and select <control>Uninstall</control>.
+4. Right-click the **Notes** plugin and select <control>Uninstall</control>.
 5. Click <control>OK</control> in the <control>Settings</control>  dialog to apply the changes, and restart <control>IDE</control>  if prompted.
 
 
