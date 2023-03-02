@@ -31,5 +31,6 @@
         <social type="youtube" href="https://youtu.be/1uhrSAMzo3I"/>
         <social type="bilibili" href="https://space.bilibili.com/297314170"/>
         <social type="email" href="mailto:beansoft@126.com"/>
+        <copyright>BeanSoft@126.com</copyright>
     </footer>
 </buildprofiles>
