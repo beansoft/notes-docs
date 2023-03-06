@@ -2,7 +2,23 @@
 
 How to install and management the Notes plugin.
 
+## Supported Operating Systems
+Since Notes 2023.1.2, the natively compiled SQLite engines will be used for
+the following operating systems:
+
+|              | x86 | x86_64 | armv5 | armv6 | armv7 | arm64 | ppc64 |
+|--------------|-----|--------|-------|-------|-------|-------|-------|
+| Windows      | ✔   | ✔      |       |       | ✔     | ✔     |       |
+| macOS        |     | ✔      |       |       |       | ✔     |       |
+| Linux (libc) | ✔   | ✔      | ✔     | ✔     | ✔     | ✔     | ✔     |
+| Linux (musl) | ✔   | ✔      |       |       |       | ✔     |       |
+| FreeBSD      | ✔   | ✔      |       |       |       | ✔     |       |
+
+
+In the other OSs not listed above, the pure-java SQLite is used. (Applies to versions before 3.7.15)
+
 ## Prerequisites
+
 
 1. A JetBrains IDE 2020.3+
 

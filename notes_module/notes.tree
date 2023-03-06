@@ -16,7 +16,8 @@
     <toc-element topic="LICENSE.md"/>
     <toc-element topic="Roadmap.md"/>
     <toc-element toc-title="What's new">
-        <toc-element topic="2023100.topic"/>
+        <toc-element topic="2023102.topic"/>
+        <toc-element topic="2023101.topic"/>
         <toc-element topic="2022-3-0.md" accepts-web-file-names="whats-new-last-update.html"/>
     </toc-element>
 

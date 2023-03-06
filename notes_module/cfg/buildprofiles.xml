@@ -32,5 +32,6 @@
         <social type="bilibili" href="https://space.bilibili.com/297314170"/>
         <social type="email" href="mailto:beansoft@126.com"/>
         <copyright>BeanSoft@126.com</copyright>
+        <link href="https://github.com/beansoft/iscratch-support/issues">Bugtracker</link>
     </footer>
 </buildprofiles>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://helpserver.labs.jb.gg/help/schemas/mvp/html-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://helpserver.labs.jb.gg/help/schemas/mvp/topic.v2.xsd"
+       title="2023.1.2">
+    <web-file-name>whats-new.html</web-file-name>
+    <!-- show-structure depth="0" 会彻底禁用侧面导航栏 -->
+<!--    <show-structure depth="0"/>-->
+<!--    <show-structure for="procedure,chapter"/>-->
+
+    <note>This version requires JetBrains IDE 2022.3+, we'll backport features to IDE 2022.2 in the next version.</note>
+
+    <chapter title="🆕New">
+
+    </chapter>
+
+    <chapter title="🪲Fixed">
+        <list style="bullet">
+            <li>
+                 <a href="https://github.com/beansoft/iscratch-support/issues/41">Out of sync with gutter icon and notes tool window line numbers or deleted #41</a>
+            </li>
+            <li>
+                <a href="https://github.com/beansoft/iscratch-support/issues/40">Performance issue after delete note with 2 attachments failed in Trash #40</a>
+            </li>
+
+            <li>
+                <a href="https://github.com/beansoft/iscratch-support/issues/35">Performance issue when there is JDBC connection problems #35</a>
+            </li>
+        </list>
+    </chapter>
+
+
+    <chapter title="✅Improved">
+        <list style="bullet">
+            <li>
+                New note dialog in editor now selects all title text by default.
+            </li>
+        </list>
+    </chapter>
+
+</topic>
+
