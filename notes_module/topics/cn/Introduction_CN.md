@@ -1,4 +1,4 @@
-# Notes 代码笔记
+# 代码笔记介绍
 
 为程序员笔记而生
 
@@ -15,7 +15,7 @@ B站视频:
 ![Downloads](https://img.shields.io/jetbrains/plugin/d/17501?color=FE2857) 
 ![Rating](https://img.shields.io/jetbrains/plugin/r/rating/17501)](https://plugins.jetbrains.com/plugin/17501)
 
-为庆祝简体中文版的发布, 国内用户加QQ群 150453653, 新用户立享5折优惠并不定期送一年免费优惠码.
+为庆祝简体中文版的发布, 国内用户加QQ群 589685750 或者Q 9991483, 立享5折优惠并不定期送一年免费优惠码.
 
 > 中文用户如遇到字体显示问题, 可点击<shortcut>⭐代码笔记</shortcut>工具窗口中的 小齿轮 ![](settings.svg) 打开设置界面的默认列表或者树字体为中文字体例如微软雅黑即可.
 

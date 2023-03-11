@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic SYSTEM "https://helpserver.labs.jb.gg/help/schemas/mvp/html-entities.dtd">
+
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://helpserver.labs.jb.gg/help/schemas/mvp/topic.v2.xsd"
+       title="Meet Educational Products"
+       id="Educational_Products"
+       is-library="false">
+
+
+<!--    <web-description>Products to learn, teach, and practice programming.-->
+<!--    </web-description>-->
+
+    <p>With Educational Products, you can learn and teach programming languages in
+        the form of coding tasks and custom verification tests right inside of JetBrains IntelliJ Platform based IDEs.
+    </p>
+
+    <p>Educational Products are free to use and support <control>Java</control>, <control>
+        Kotlin</control>, <control>Python</control>, <control>Scala</control>, <control>JavaScript</control>, <control>Rust</control>,
+        <control>C++</control>, <control>Go</control>, and <control>PHP</control> with more languages to come.
+    </p>
+
+    <chapter title="Choose your programming language">
+        <p>
+            This tutorial will walk you through creating a simple <control switcher-key="Java">Java</control><control switcher-key="Kotlin">Kotlin</control>
+            <control switcher-key="Python">Python</control><control switcher-key="Scala">Scala</control><control switcher-key="JavaScript">JavaScript</control>
+            <control switcher-key="Rust">Rust</control><control switcher-key="C++">C++</control><control switcher-key="Go">Go</control><control switcher-key="PHP">PHP</control>
+            course with a set of programming tasks and integrated tests.
+            You can switch to a different programming language using the <control>Section</control> drop-down menu at the right top of the page:
+<!--            <img switcher-key="Java" src="edu_choose_language_java.png" alt="Choose a language"/>-->
+<!--            <img switcher-key="Kotlin" src="edu_choose_language_kotlin.png" alt="Choose a language"/>-->
+<!--            <img switcher-key="Python" src="edu_choose_language_python.png" alt="Choose a language"/>-->
+<!--            <img switcher-key="Scala" src="edu_choose_language_scala.png" alt="Choose a language"/>-->
+<!--            <img switcher-key="JavaScript" src="edu_choose_language_js.png" alt="Choose a language"/>-->
+<!--            <img switcher-key="Rust" src="edu_choose_language_rust.png" alt="Choose a language"/>-->
+<!--            <img switcher-key="C++" src="edu_choose_language_cpp.png" alt="Choose a language"/>-->
+<!--            <img switcher-key="Go" src="edu_choose_language_go.png" alt="Choose a language"/>-->
+<!--            <img switcher-key="PHP" src="edu_choose_language_php.png" alt="Choose a language"/>-->
+        </p>
+    </chapter>
+
+    <chapter switcher-key="Java" title="Download Java">
+        <p>You can work with Java courses in <control>IntelliJ IDEA</control> with the EduTools plugin installed.</p>
+        <control>
+            <a href="https://www.jetbrains.com/education/download/#switcher-key=idea">Download IntelliJ IDEA Edu
+            </a>
+        </control>
+        , or
+        <a href="Install_EduTools_Plugin.xml" target-switcher-key="IntelliJ IDEA"/>
+        if you have already installed IntelliJ IDEA Community or Ultimate.
+    </chapter>
+
+    <chapter switcher-key="Kotlin" title="Download">
+        <p>You can work with Kotlin courses in <control>IntelliJ IDEA</control> or <control>Android Studio</control> with the EduTools plugin installed.</p>
+        <tabs>
+            <tab title="IntelliJ IDEA">
+                <control>
+                    <a href="https://www.jetbrains.com/education/download/#switcher-key=idea-Kotlin">Download IntelliJ
+                        IDEA Edu with EduTools and Kotlin plugins
+                    </a>
+                </control>
+                , or
+                <a href="Install_EduTools_Plugin.xml" target-switcher-key="IntelliJ IDEA"/>
+                if you have already installed IntelliJ IDEA Community or Ultimate.
+            </tab>
+            <tab title="Android Studio">
+                <control>
+                    <a href="https://developer.android.com/studio/index.html">Download Android Studio</a>
+                </control>
+                and
+                <a href="Install_EduTools_Plugin.xml" target-switcher-key="Android Studio"/>.
+            </tab>
+        </tabs>
+    </chapter>
+
+    <chapter  switcher-key="Python" title="Download">
+        <p>You can work with Python courses in <control>PyCharm</control> with the EduTools plugin installed.</p>
+        <control>
+            <a href="https://www.jetbrains.com/education/download/#switcher-key=pycharm-edu">Download PyCharm
+                Edu
+            </a>
+        </control>
+        , or
+        <a href="Install_EduTools_Plugin.xml" target-switcher-key="PyCharm"/>
+        if you have already installed PyCharm Community or Professional.
+    </chapter>
+
+    <chapter switcher-key="Scala" title="Download">
+        <p>You can work with Scala courses in <control>IntelliJ IDEA</control> with the EduTools plugin installed.</p>
+        <control>
+            <a href="https://www.jetbrains.com/education/download/#switcher-key=idea">Download IntelliJ IDEA Edu
+            </a>
+        </control>
+        , or
+        <a href="Install_EduTools_Plugin.xml" target-switcher-key="IntelliJ IDEA"/>
+        if you have already installed IntelliJ IDEA Community or Ultimate.
+    </chapter>
+
+    <chapter switcher-key="JavaScript" title="Download">
+        <p>You can work with JavaScripts course in <control>WebStorm</control>,
+            <control>IntelliJ IDEA Ultimate</control> and
+            <control>PyCharm Professional</control> with the EduTools plugin installed.</p>
+        Download
+            <a href="https://www.jetbrains.com/webstorm/download">WebStorm</a>,
+            <a href="https://www.jetbrains.com/idea/download">IntelliJ IDEA Ultimate</a> or
+            <a href="https://www.jetbrains.com/pycharm/download">PyCharm Professional</a>
+         bundled with evaluation license key for a free 30-day trial, and
+        <a href="Install_EduTools_Plugin.xml" target-switcher-key="WebStorm">Install EduTools plugin</a>.
+        <p>If you are a student or academic staff member, apply to our <a href="https://www.jetbrains.com/student/">Educational Licenses Program</a> to get access to all JetBrains desktop products, including WebStorm.
+        </p>
+    </chapter>
+
+    <chapter switcher-key="Rust" title="Download">
+        <p>You can work with Rust courses in <control>CLion</control> with the EduTools and Rust plugins installed.</p>
+        <control>
+            <a href="https://www.jetbrains.com/clion/download/">Download CLion
+            </a>
+        </control> bundled with evaluation license key for a free 30-day trial, and
+        <a href="Install_EduTools_Plugin.xml" target-switcher-key="CLion"/>.
+        <p>Alternatively, you can download <control>
+            <a href="https://www.jetbrains.com/education/download/#switcher-key=idea">IntelliJ IDEA Edu
+            </a>.
+        </control></p>
+        <p>To learn how to install the Rust plugin, see <a href="https://intellij-rust.github.io/install">this</a> guide.
+        </p>
+    </chapter>
+
+    <chapter switcher-key="C++" title="Download">
+        <p>You can work with C++ courses in <control>CLion</control> with the EduTools plugin installed.</p>
+        <control>
+            <a href="https://www.jetbrains.com/clion/download/">Download CLion
+            </a>
+        </control> bundled with evaluation license key for a free 30-day trial, and
+        <a href="Install_EduTools_Plugin.xml" target-switcher-key="CLion"/>.
+        <p>If you are a student or academic staff member, apply to our <a href="https://www.jetbrains.com/student/">Educational Licenses Program</a> to get access to all JetBrains desktop products, including CLion.
+        </p>
+    </chapter>
+
+    <chapter switcher-key="Go" title="Download">
+        <p>You can work with Go courses in <control>GoLand</control> and <control>IntelliJ IDEA Ultimate</control>
+            with the EduTools plugin installed.</p>
+        <control>
+            <a href="https://www.jetbrains.com/clion/download/">Download GoLand
+            </a></control> or <control><a href="https://www.jetbrains.com/idea/download">IntelliJ IDEA Ultimate</a>
+        </control>bundled with evaluation license key for a free 30-day trial, and
+        <a href="Install_EduTools_Plugin.xml" target-switcher-key="GoLand"/>.
+        <p>If you are a student or academic staff member, apply to our <a href="https://www.jetbrains.com/student/">Educational Licenses Program</a> to get access to all JetBrains desktop products, including GoLand.
+        </p>
+    </chapter>
+
+    <chapter switcher-key="PHP" title="Download">
+        <p>You can work with PHP courses in <control>PhpStorm</control> and
+            <control>IntelliJ IDEA Ultimate</control> with the EduTools plugin installed.</p>
+        Download
+        <a href="https://www.jetbrains.com/phpstorm/download">PhpStorm</a> or
+        <a href="https://www.jetbrains.com/idea/download">IntelliJ IDEA Ultimate</a>
+        bundled with evaluation license key for a free 30-day trial, and
+        <a href="Install_EduTools_Plugin.xml" target-switcher-key="PhpStorm">Install EduTools plugin</a>.
+        <p>If you are a student or academic staff member, apply to our
+            <a href="https://www.jetbrains.com/student/">Educational Licenses Program</a>
+            to get access to all JetBrains desktop products, including PhpStorm.
+        </p>
+    </chapter>
+
+    <chapter title="For Learners">
+        <chapter title="Encouraging environment with a focus on ‘learning by doing’">
+            <p>Join a public programming course available out of the box, or enroll in a custom course prepared by your
+                teacher or co-worker. Enjoy an interactive way of learning, with a focus on programming code tasks. Stay
+                motivated with instant feedback and quick results!
+            </p>
+        </chapter>
+        <a href="For_Learners.xml">Learn more</a>
+    </chapter>
+
+    <chapter title="For Educators">
+        <chapter title="Professional tool for sharing knowledge and building stronger teams and communities">
+            <p>Impart your knowledge in the form of code exercises, with the assistance of integrated tests and hints.
+                Share
+                your courses publicly or privately with your students or co-workers. Be confident that learners are
+                doing
+                everything right while staying in context!
+            </p>
+        </chapter>
+<!--        <a href="For_Educators.xml">Learn more</a>-->
+    </chapter>
+</topic>
