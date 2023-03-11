@@ -20,6 +20,8 @@
 🎦最新版B站视频:
 ![](video-capture.svg)<a href="https://www.bilibili.com/video/BV1Fo4y1v7bQ/">IDEA超好用的代码笔记插件 - Notes 2023.1.1 新功能介绍 [4K]</a>
 
+🌟国内用户加QQ群 589685750 或者Q 9991483, 立享5折优惠并不定期送一年免费优惠码.
+
 <seealso style="cards">
        <category ref="how-to">
            <a href="Quick-Start.md">Quick Start</a>
