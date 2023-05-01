@@ -22,6 +22,10 @@
 <!--        </config-versions-switcher>-->
 <!--        <custom-video-cover>video-cover.png</custom-video-cover>-->
 
+        <search-scopes-provider>https://www.jetbrains.com/search/json/</config-search-scopes-provider>
+        <algolia-index>prod_Notes_HELP</config-algolia-index>
+        <algolia-id>EUJH755F4G</config-algolia-id>
+        <algolia-api-key>eb79e0e16556cbef108946d5e146ea8c</config-algolia-api-key>
     </variables>
     <build-profile instance="notes"/>
     <footer>

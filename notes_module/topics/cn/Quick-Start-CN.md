@@ -22,13 +22,21 @@
 
 🌟国内用户加QQ群 589685750 或者Q 9991483, 立享5折优惠并不定期送一年免费优惠码.
 
+## 支持作者
+如果觉得本插件不错，提升了你的开发效率，但是因为国内特殊原因无法购买，那么可以请作者喝杯咖啡吧～您的支持是鼓励我前行的动力，非常感谢。
+
+
+
+| <img src="wechat.jpg" alt="微信" width="250" /> | <img src="alipay.jpg" alt="支付宝" width="250" /> |
+|-----------------------------------------------|------------------------------------------------|
+
 <seealso style="cards">
        <category ref="how-to">
-           <a href="Quick-Start.md">Quick Start</a>
-           <a href="Pricing.md" >Pricing</a>
+           <a href="Introduction_CN.md" >介绍</a>
+           <a href="Pricing-CN.md" >定价</a>
        </category>
        <category ref="ext">
-           <a href="https://plugins.jetbrains.com/plugin/17501-notes/" summary="代码笔记插件网站">Notes Plugin Web Site</a>
+           <a href="https://plugins.jetbrains.com/plugin/17501-notes/" summary="代码笔记插件网站">Notes 插件市场网站</a>
        </category>
 </seealso>
 

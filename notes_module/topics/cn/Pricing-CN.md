@@ -8,8 +8,7 @@
 
 **如何购买插件**: [`JetBrains插件市场文档`](https://plugins.jetbrains.com/docs/marketplace/how-to-buy-a-plugin.html)
 
-**售后支持和技术支持找谁?** [`售后找JetBrains、技术支持找BeanSoft@126.com`](https://plugins.jetbrains.
-com/docs/marketplace/sales-and-technical-support.html)
+**售后支持和技术支持找谁?** [`售后支持由JetBrains提供、技术支持由BeanSoft@126.com提供`](https://plugins.jetbrains.com/docs/marketplace/sales-and-technical-support.html)
 </tldr>
 
 代码笔记插件价格体系：
@@ -72,7 +71,7 @@ com/docs/marketplace/sales-and-technical-support.html)
 
 如果你使用的是免费许可，欢迎在 [JetBrains Marketplace 页面](https://plugins.jetbrains.com/plugin/17501-notes/reviews) 编写评价。
 
-更多信息请查看 [](Special-Community-Offers.md)
+更多信息请查看 [](../Special-Community-Offers.md)
 
 ## 永久可回退许可证
 

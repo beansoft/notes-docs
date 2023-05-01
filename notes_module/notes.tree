@@ -25,7 +25,9 @@
     <toc-element toc-title="中文文档">
         <toc-element topic="Introduction_CN.md"/>
         <toc-element topic="Quick-Start-CN.md"/>
+        <toc-element topic="Installation-CN.md"/>
         <toc-element topic="Pricing-CN.md"/>
+        <toc-element topic="LICENSE_CN.md"/>
     </toc-element>
     <toc-element topic="Demo.md" hidden="true">
     </toc-element>
