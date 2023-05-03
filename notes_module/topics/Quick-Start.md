@@ -11,7 +11,7 @@ Setup and use Notes in just one minute.
 Get started in one minute
 :
 1. Open any project in your IDE
-2. Click the `⭐ Notes` Tool Window（with new UI, you might click the ![](moreHorizontal@20x20.svg) button first)
+2. Click the `⭐ Notes` Tool Window（if not visible, click menu <ui-path>View | Tool Windows | Notes</ui-path>)
 3.  Click the blue link `Create database in home directory`
 4. Open any source code or images, select some text or right-click the editor gutter area
 5. Press keys <shortcut key="$AddNotes" />, <shortcut key="ShowIntentionActions" /> or click RMB, click item `Add to Code Notes ...`
