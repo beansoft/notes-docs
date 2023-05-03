@@ -1,9 +1,9 @@
 # 快速入门
-[//]: # (<excerpt>Setup and Use Notes in One Minutes.</excerpt>)
+<excerpt>Setup and Use Notes in One Minutes.</excerpt>
 
-> 十分抱歉 2023.1.0 EAP 版本出现了空指针异常, 请尽快更新至最新版本.
-
-{style="warning"}
+> 🌟国内用户加QQ群 589685750 或者Q 9991483, 立享5折优惠并不定期送一年免费优惠码.
+> 
+{style="note"}
 
 一分钟快速入门
 :
@@ -20,7 +20,7 @@
 🎦最新版B站视频:
 ![](video-capture.svg)<a href="https://www.bilibili.com/video/BV1Fo4y1v7bQ/">IDEA超好用的代码笔记插件 - Notes 2023.1.1 新功能介绍 [4K]</a>
 
-🌟国内用户加QQ群 589685750 或者Q 9991483, 立享5折优惠并不定期送一年免费优惠码.
+
 
 ## 支持作者
 如果觉得本插件不错，提升了你的开发效率，但是因为国内特殊原因无法购买，那么可以请作者喝杯咖啡吧～您的支持是鼓励我前行的动力，非常感谢。

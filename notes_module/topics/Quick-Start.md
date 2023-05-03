@@ -1,9 +1,10 @@
 # Quick Start
 [//]: # (<excerpt>Setup and Use Notes in One Minutes.</excerpt>)
 
-> I'm so sorry that version 2023.1.0 EAP has an NPE issue, update to the latest version to fix it. 
+[//]: # (> I'm so sorry that version 2023.1.0 EAP has an NPE issue, update to the latest version to fix it. )
 
-{style="warning"}
+[//]: # ()
+[//]: # ({style="warning"})
 
 Setup and use Notes in just one minute.
 
