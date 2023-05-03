@@ -38,8 +38,8 @@
 >
 {style="note"}
 
-
-## 在开发工具中安装 `%product%` 插件
+[//]: # (下面的内容必须添加 id 才能区分不同的大纲 参考 https://plugins.jetbrains.com/plugin/20158-writerside/docs/structural-elements.html#chapter-block )
+## 在开发工具中安装 `%product%` 插件 {id="install-in-ide"}
 
 1. 启动开发工具并按下 <shortcut key="ShowSettings" /> 打开 IDE 设置页面并选择 <ui-path>Plugins</ui-path>。
 2. 在 <ui-path>Plugins</ui-path> 对话框中切换到 <ui-path>Marketplace</ui-path> 标签页。
@@ -49,7 +49,7 @@
 
 ![](notes-install.png){thumbnail="true" thumbnail-same-file="true" }
 
-## 下载并从磁盘安装 `%product%` 插件
+## 下载并从磁盘安装 `%product%` 插件 {id="install-from-disk"}
 
 1. 打开插件版本页面 [%plugin_versions_page%](%plugin_versions_page%).
 2. 点击 <control>Download</control> 得到一个 ZIP 压缩文件。
@@ -59,7 +59,7 @@
 6. 点击 <control>OK</control> 来应用更改，如出现提示请重启IDE。
 
 
-## 更新已安装的 `%product%` 插件
+## 更新已安装的 `%product%` 插件 {id="update"}
 
 1. 启动开发工具并按下 <shortcut key="ShowSettings" /> 打开 IDE 设置页面并选择 <ui-path>Plugins</ui-path>。
 2. 在 <ui-path>Plugins</ui-path> 对话框中切换到 <ui-path>Installed</ui-path> 标签页。
@@ -67,7 +67,7 @@
 4. 点击 <control>Update</control>.
 5. 点击 <control>OK</control> 来应用更改，如出现提示请重启IDE。
 
-## 卸载 `%product%` 插件
+## 卸载 `%product%` 插件 {id="uninstall"}
 
 > 取消选择插件名字右侧的复选框可以禁用 `%product%` 插件。
 >

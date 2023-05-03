@@ -39,7 +39,7 @@ IDEs include IDEA CE, IDEA Ultimate, WebStorm, Android Studio, PhpStorm, RubyMin
 > 
 {style="note"}
 
-## Install the `%product%` plugin in IDE
+## Install the %product% plugin in IDE
 
 
 1. Open your IDE and press <shortcut key="ShowSettings" /> to open the IDE settings and select <ui-path>Plugins</ui-path>.
@@ -50,7 +50,7 @@ IDEs include IDEA CE, IDEA Ultimate, WebStorm, Android Studio, PhpStorm, RubyMin
 
 ![](notes-install.png){thumbnail="true" thumbnail-same-file="true" }
 
-## Download and install `%product%` plugin from disk
+## Download and install %product% plugin from disk
 
 1. Go to the plugin versions page at [%plugin_versions_page%](%plugin_versions_page%).
 2. Click <control>Download</control> and get a ZIP archive.
@@ -60,7 +60,7 @@ IDEs include IDEA CE, IDEA Ultimate, WebStorm, Android Studio, PhpStorm, RubyMin
 6. Click <control>OK</control> to apply the changes and restart your IDE if prompted.
 
 
-## Update an installed `%product%` plugin
+## Update an installed %product% plugin
 
 1. Open your IDE and press <shortcut key="ShowSettings" /> to open the IDE settings and select <ui-path>Plugins</ui-path>.
 2. In the <ui-path>Plugins</ui-path> dialog, switch to the <ui-path>Installed</ui-path> tab.
@@ -68,7 +68,7 @@ IDEs include IDEA CE, IDEA Ultimate, WebStorm, Android Studio, PhpStorm, RubyMin
 4. Click <control>Update</control>.
 5. Click <control>OK</control> in the <control>Settings</control>  dialog to apply the changes, and restart <control>IDE</control>  if prompted.
 
-## Uninstall the `%product%` plugin
+## Uninstall the %product% plugin
 
 > You can always disable the `%product%` plugin by clearing the checkbox to the right of its name.
 >
