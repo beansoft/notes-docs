@@ -7,7 +7,7 @@
        xsi:noNamespaceSchemaLocation="https://helpserver.labs.jb.gg/help/schemas/mvp/topic.v2.xsd"
        id="getting_help" title="Getting Help" switcher-label="Language(页面语言)">
 
-    <show-structure depth="0"/>
+    <show-structure depth="1"/>
 
     <link-summary>How to submit issues about this guide and get support for plugin development.</link-summary>
 

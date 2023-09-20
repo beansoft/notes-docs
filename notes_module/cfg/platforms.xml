@@ -3,16 +3,40 @@
     <selector-label>Keyboard shortcuts layout:</selector-label>
     <platform id="primary">
         <delimiter>+</delimiter>
+        <use-keymaps>
+            primary_Windows,
+            primary_GNOME,
+            primary_KDE,
+            primary_XWin,
+            primary_Eclipse,
+            primary_Emacs,
+            primary_NetBeans,
+            primary_Sublime Text,
+            primary_Visual Studio
+        </use-keymaps>
         <src>keymap-sd.xml</src>
-        <use-keymaps>primary_Windows,
-            primary_GNOME</use-keymaps>
+        <mappings>ctrl:Ctrl;control:Ctrl;alt:Alt;shift:Shift;command:⌘;meta:⌘</mappings>
+        <directory-separator>\</directory-separator>
     </platform>
 
     <platform id="secondary">
         <use-keymaps>
-            secondary_macOS
+            secondary_macOS,
+            secondary_Eclipse,
+            secondary_Eclipse (macOS),
+            secondary_Emacs,
+            secondary_IntelliJ IDEA Classic,
+            secondary_macOS System Shortcuts,
+            secondary_NetBeans,
+            secondary_Sublime Text,
+            secondary_Sublime Text (macOS),
+            secondary_Visual Studio
         </use-keymaps>
         <src>keymap-sd.xml</src>
+        <mappings>ctrl:Ctrl;control:Ctrl;alt:Alt;shift:Shift;command:⌘;meta:⌘</mappings>
+        <directory-separator>\</directory-separator>
     </platform>
+
+
 
 </platforms>

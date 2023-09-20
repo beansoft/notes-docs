@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://helpserver.labs.jb.gg/help/schemas/mvp/html-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://helpserver.labs.jb.gg/help/schemas/mvp/topic.v2.xsd"
+       title="2023.1.5" switcher-label="Language(页面语言)">
+    <web-file-name>whats-new.html</web-file-name>
+    <!-- show-structure depth="0" 会彻底禁用侧面导航栏 -->
+<!--    <show-structure depth="0"/>-->
+<!--    <show-structure for="procedure,chapter"/>-->
+
+    <note switcher-key="English">
+        <p>This page is also available in Chinese, please switch Language on right top</p>
+        <p>本页面也提供简体中文版本，请在页面右上方切换 Language 为简体中文</p>
+    </note>
+
+    <note switcher-key="English">This version requires JetBrains IDE 2023.2+, we'll backport features to IDE 2023.1 in the next version.</note>
+    <note switcher-key="简体中文">本版本需要 JetBrains IDE 2023.2+, 未来新版将会将功能迁移回 IDE 2023.1版本.</note>
+
+    <chapter title="🆕New">
+        <procedure title="Copy and paste code files into the note list with content auto-saved, support files in/outside of IDE" collapsible="false"  style="choices"  default-state="expanded">
+            <step>Copy text and then paste</step>
+            <step>Copy File in IDE and then paste, auto save content</step>
+            <step>Copy image/bin file outside IDE and then paste a link</step>
+            <step>Copy text file outside IDE and then paste, auto save content</step>
+        </procedure>
+
+        <deflist style="full" default-state="expanded">
+            <def title="Support multi-line title and big screen attachment viewer">
+                <list>
+                    <li>Allow input multi-line title when creating or editing notes.</li>
+                    <li>Big attachment viewer dialog.</li>
+                </list>
+            </def>
+
+            <def title="Support RustRover IDE">
+                <list>
+                    <li>Rust dev notes easy.</li>
+                </list>
+            </def>
+
+            <def title="Support Mermaid plugin for creating diagrams">
+                <list>
+                    <li>Install <a href="https://plugins.jetbrains.com/plugin/20146-mermaid">Mermaid</a> plugin.</li>
+                </list>
+            </def>
+
+            <def title="Add markdown editor toolbar in notes toolwindow">
+                <list>
+                    <li><shortcut>Bold</shortcut> - Bold text</li>
+                    <li><shortcut>Table</shortcut> - Insert table</li>
+                </list>
+            </def>
+        </deflist>
+    </chapter>
+
+    <chapter title="🪲Fixed">
+        <list style="bullet">
+            <li>
+                NPE issue in the plugin.
+            </li>
+            <li>
+                Focus current project doesn't filtering out folder list correctly.
+            </li>
+        </list>
+    </chapter>
+
+
+    <chapter title="✅Improved">
+        <list style="bullet">
+            <li>
+                Copy notes code action.
+            </li>
+        </list>
+    </chapter>
+
+</topic>
+

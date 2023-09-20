@@ -62,7 +62,7 @@ IDEs include IDEA CE, IDEA Ultimate, WebStorm, Android Studio, PhpStorm, RubyMin
 
 ## Update an installed %product% plugin
 
-1. Open your IDE and press <shortcut key="ShowSettings" /> to open the IDE settings and select <ui-path>Plugins</ui-path>.
+1. Open your IDE and press <shortcut key="ShowContent" /> to open the IDE settings and select <ui-path>Plugins</ui-path>.
 2. In the <ui-path>Plugins</ui-path> dialog, switch to the <ui-path>Installed</ui-path> tab.
 3. Check if the `%product%` plugin requires an update.
 4. Click <control>Update</control>.

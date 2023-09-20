@@ -5,7 +5,10 @@
          value="Sometext"
          type="string"/>
     <var name="preferencesDialog" value="Settings/Preferences" type="string"/>
-    <var name="product" value="Notes" type="string"/>
+    <var name="product" value="Code Note" type="string"/>
     <var name="product_cn" value="代码笔记" type="string"/>
-    <var name="plugin_versions_page" value="https://plugins.jetbrains.com/plugin/17501-notes/versions" type="string"/>
+    <var name="plugin_versions_page" value="https://plugins.jetbrains.com/plugin/17501-notes/versions"
+         type="string"/>
+    <var name="plugin_page" value="https://plugins.jetbrains.com/plugin/17501-notes" type="string"/>
+
 </vars>

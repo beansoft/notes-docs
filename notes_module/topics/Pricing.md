@@ -1,16 +1,14 @@
 # Pricing
-
-
 <tldr>
 
-**Start buying here:** [`Notes Pricing Page`](https://plugins.jetbrains.com/plugin/17501-notes/pricing)
+**Start buying here:** [`%product% Plugin Pricing Page`](%plugin_page%/pricing)
 
 **How to buy a plugin**: [`JetBrains Marketplace doc`](https://plugins.jetbrains.com/docs/marketplace/how-to-buy-a-plugin.html)
 
 **Who is providing sales and technical support?** [`JetBrains / BeanSoft`](https://plugins.jetbrains.com/docs/marketplace/sales-and-technical-support.html)
 </tldr>
 
-Pricing model of the Notes Plugin.
+Pricing model of the `%product%` Plugin:
 
 > 20% discount for uninterrupted subscription for 2nd year, 40% discount for uninterrupted subscription for 3rd year onwards.
 > 12 months of uninterrupted subscription payments qualify you for receiving a [perpetual fallback license](https://sales.jetbrains.com/hc/en-gb/articles/207240845-What-is-perpetual-fallback-license-).
@@ -41,17 +39,18 @@ These licenses are bought by legal entities, including companies, for-profit and
 | 3rd year onwards |  $ 1.70 | $ 17.00 |
 
 
-## Evaluate for free
+## Free 30-Day Trial
 
-Notes plugins come with a 30-day free trial period, so you can test them out before buying a license:
-
-1.  Use the “Search” field with `Notes` keyword in the <control>Plugin Manager</control> to find the plugin.
-
-2.  <control>Install</control> the plugin and restart your IDE.
-
+Test %product% without risk before buying a license:
+: 
+1. Open your IDE and press <shortcut key="ShowSettings" /> to open the IDE settings and select <ui-path>Plugins</ui-path>.
+2. In the <ui-path>Plugins</ui-path> dialog, switch to the <control>Marketplace</control> tab.
+3. On the <control>Marketplace</control> tab, search for `%product%`.
+4. Select the `%product%` plugin and click <control>Install</control>.
+5. Click <control>OK</control> to apply the changes and restart your IDE if prompted.
     <note> You will need to restart the IDE every time you install a paid plugin. If you skip this step, the plugin will be disabled.</note>
-
-3.  Activate the trial-period by selecting “Evaluate for free” in the license activation window that pops up.
+6.  Activate the trial-period by selecting <control>Evaluate for free</control> in the license activation window that pops up.
+    ![](start_trial.png) {thumbnail="true"}
 
 ## Payment
 
@@ -60,8 +59,7 @@ Payment, invoicing, and licenses are managed by the JetBrains Marketplace.
 If you have a subscription for one of the JetBrains products, then you know how it works. The exact same system is used for
 Notes.
 
-If you need help, please [contact our support](mailto:beansoft@126.com) or reach out
-to [JetBrains’ sales support](https://www.jetbrains.com/support/sales/#email-sales).
+If you need help, please reach out to [JetBrains’ sales support](https://www.jetbrains.com/support/sales/#email-sales).
 
 ## Academia
 
