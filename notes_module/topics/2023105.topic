@@ -17,7 +17,7 @@
     <note switcher-key="English">This version requires JetBrains IDE 2023.2+, we'll backport features to IDE 2023.1 in the next version.</note>
     <note switcher-key="简体中文">本版本需要 JetBrains IDE 2023.2+, 未来新版将会将功能迁移回 IDE 2023.1版本.</note>
 
-    <chapter title="🆕New">
+    <chapter title="🆕New" switcher-key="English">
         <procedure title="Copy and paste code files into the note list with content auto-saved, support files in/outside of IDE" collapsible="false"  style="choices"  default-state="expanded">
             <step>Copy text and then paste</step>
             <step>Copy File in IDE and then paste, auto save content</step>
@@ -54,7 +54,44 @@
         </deflist>
     </chapter>
 
-    <chapter title="🪲Fixed">
+    <chapter title="🆕新功能" switcher-key="简体中文">
+        <procedure title="复制粘贴文件到笔记列表会自动保存内容，支持开发工具内部和外部的文件" collapsible="false"  style="choices"  default-state="expanded">
+            <step>复制文本然后粘贴</step>
+            <step>复制开发工具内的文件然后粘贴，内容会自动保存</step>
+            <step>从开发工具外部复制图片或二进制文件，会粘贴一个链接到原文件</step>
+            <step>从开发工具外部复制文本文件，内容会自动保存</step>
+        </procedure>
+
+        <deflist style="full" default-state="expanded">
+            <def title="支持多行标题及大屏附件查看器">
+                <list>
+                    <li>支持新建笔记时输入多行标题</li>
+                    <li>大屏附件查看器对话框.</li>
+                </list>
+            </def>
+
+            <def title="支持 RustRover 开发工具">
+                <list>
+                    <li>Rust 开发笔记轻松记录.</li>
+                </list>
+            </def>
+
+            <def title="支持流程图插件 Mermaid ">
+                <list>
+                    <li>请先安装 <a href="https://plugins.jetbrains.com/plugin/20146-mermaid">Mermaid</a> 插件.</li>
+                </list>
+            </def>
+
+            <def title="在笔记工具窗口添加 Markdown 编辑器工具栏">
+                <list>
+                    <li><shortcut>Bold</shortcut> - 粗体文本</li>
+                    <li><shortcut>Table</shortcut> - 插入表格</li>
+                </list>
+            </def>
+        </deflist>
+    </chapter>
+
+    <chapter title="🪲Fixed" switcher-key="English">
         <list style="bullet">
             <li>
                 NPE issue in the plugin.
@@ -65,6 +102,16 @@
         </list>
     </chapter>
 
+    <chapter title="🪲问题修复" switcher-key="简体中文">
+        <list style="bullet">
+            <li>
+                插件空指针异常.
+            </li>
+            <li>
+                仅显示当前项目选项不能正常过滤目录列表.
+            </li>
+        </list>
+    </chapter>
 
     <chapter title="✅Improved">
         <list style="bullet">
