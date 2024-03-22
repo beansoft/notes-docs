@@ -16,7 +16,7 @@ The most advanced Code Notes tool for Jetbrains IDEs allows adding code notes/bo
 * ✅ Editor with the syntax highlighting up to 300 file types
 * ✅ Attachments management
 
-For more info about the Evernote support, please click [](Sync-with-Evernote.md).
+For more info about the Evernote support, click [](Sync-with-Evernote.md).
 
 In editor notes creation(Alt+M) or from the editor gutter's context menu, create or edit notes, or start by select some code and then using the Alt + Enter intention and the note will display in place.
 

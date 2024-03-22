@@ -8,13 +8,18 @@
 :
 1. 在你的开发工具中打开任意一个项目
 2. 点击开发工具底部 `⭐代码笔记` 工具窗口（如果窗口不可见，请先点菜单 <ui-path>View | Tool Windows | Notes </ui-path> )
-3. 点击蓝色字体 `在用户目录创建数据库`
-4. 打开任意程序或图片文件，选择要添加进入笔记的文本或者在编辑器间隔区右键点击
-5. 按下 <shortcut key="$AddNotes" />快捷键,  按下 <shortcut key="ShowIntentionActions" /> 或者点击鼠标右键, 选择 `添加到代码笔记 ...`
-6. 添加标题, 代码笔记成功保存到了 `⭐代码笔记` 工具窗口
-7. 编辑器间隔区出现`⭐`图标，鼠标右键点击 - 定位笔记；拖动 - 移动到新行
-8. 在`⭐代码笔记` 工具窗口中点击 <control>![](settings.svg)打开笔记设置</control> 工具栏按钮来浏览 `notes.db` 数据库文件和附件存储目录(默认名称是`_notes`)
+3. 可选：点击 **项目笔记** 开关启用项目笔记功能  ![project_notes_toggle.png](project_notes_toggle.png) {width="146"}
+4. 点击蓝色字体 `在用户主目录创建数据库` 或 `在当前项目文件夹创建数据库`
+5. 打开任意程序或图片文件，选择要添加进入笔记的文本或者在编辑器间隔区右键点击
+6. 按下 <shortcut key="$AddNotes" />快捷键,  按下 <shortcut key="ShowIntentionActions" /> 或者点击鼠标右键, 选择 `添加到代码笔记 ...`
+7. 添加标题, 代码笔记成功保存到了 `⭐代码笔记` 工具窗口
+8. 编辑器间隔区出现`⭐`图标，鼠标右键点击 - 定位笔记；拖动 - 移动到新行
+9. 在`⭐代码笔记` 工具窗口中点击 <control>![](settings.svg)打开笔记设置</control> 工具栏按钮来浏览 `notes.db` 数据库文件和附件存储目录(默认名称是`_notes`)
    ，然后你可以备份或者移动这些文件到任意第三方文件同步服务例如 iCloud, DropBox， OneDrive或者微云同步盘等。
+
+<note>
+    项目代码笔记功能最低需要 Code Note 插件版本 2024.1，最低需要 JetBrains IDEs 版本 2023.3。
+</note>
 
 🎦最新版B站视频:
 ![](video-capture.svg)<a href="https://www.bilibili.com/video/BV1Fo4y1v7bQ/">IDEA超好用的代码笔记插件 - Notes 2023.1.1 新功能介绍 [4K]</a>
