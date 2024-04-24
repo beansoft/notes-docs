@@ -34,7 +34,7 @@ Right click in editor to add a code Notes or using editor intentions by first se
 
 A Notes tool window will be created in the bottom of your IDE, there you can manually add remove virtual folder, create and edit any type of programming language code fragments.
 
-Notes is still in active development so it'll be pleasure if you have issues or suggestions.
+Notes is still in active development, so it'll be pleasure if you have issues or suggestions.
 
 ## Main Features
 
