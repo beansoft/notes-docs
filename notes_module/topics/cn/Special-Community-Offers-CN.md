@@ -32,7 +32,7 @@
 
 #### 如何为已经购买过的优惠许可证追加申请
 
-如有疑问, 请参考官方文档(英文): [https://plugins.jetbrains.com/docs/marketplace/community-programs.html#how-to-apply-after-purchasing-it](https://plugins.jetbrains.com/docs/marketplace/community-programshtml#how-to-apply-after-purchasing-it)
+如有疑问, 请参考官方文档(英文): [https://plugins.jetbrains.com/docs/marketplace/community-programs.html#how-to-apply-after-purchasing-it](https://plugins.jetbrains.com/docs/marketplace/community-programs.html#how-to-apply-after-purchasing-it)
 
 如果您曾经购买过相关插件的许可证，则无法按照上述步骤操作。要申请许可证，请执行以下操作：
 
