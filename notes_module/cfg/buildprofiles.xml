@@ -37,5 +37,6 @@
         <social type="email" href="mailto:beansoft@126.com"/>
         <copyright>BeanSoft@126.com</copyright>
         <link href="https://github.com/beansoft/iscratch-support/issues">Bugtracker</link>
+<!--        <link href="3rdparty.html">Powered by open-source software</link>-->
     </footer>
 </buildprofiles>

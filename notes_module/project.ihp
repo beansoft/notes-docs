@@ -13,5 +13,5 @@
     <vars src="v.list"/>
     <!-- Code Block Ref codeSnippets -->
     <snippets src="codeSnippets"/>
-    <instance src="notes.tree" version="2023.1.2" web-path="/notes-docs" />
+    <instance src="notes.tree" version="2024.2" web-path="/notes-docs" />
 </ihp>

@@ -26,13 +26,19 @@
         <toc-element topic="2023101.topic"/>
         <toc-element topic="2022-3-0.md" accepts-web-file-names="whats-new-last-update.html"/>
     </toc-element>
+    <toc-element
+            topic="Visual-Markdown-Editor.md"/>
 
     <toc-element toc-title="中文文档">
         <toc-element topic="Introduction_CN.md"/>
         <toc-element topic="Quick-Start-CN.md"/>
         <toc-element topic="Installation-CN.md"/>
         <toc-element topic="Pricing-CN.md"/>
-        <toc-element topic="LICENSE_CN.md"/>
+        <toc-element topic="Special-Community-Offers-CN.md"/>
+        <toc-element topic="LICENSE_CN.md">
+        </toc-element>
+        <toc-element
+                topic="Visual-Markdown-Editor-CN.md"/>
     </toc-element>
     <toc-element topic="Demo.md" hidden="true">
     </toc-element>
