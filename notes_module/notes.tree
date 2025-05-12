@@ -28,6 +28,7 @@
     </toc-element>
     <toc-element
             topic="Visual-Markdown-Editor.md"/>
+    <toc-element topic="Pin-To-Symbol.md"/>
 
     <toc-element toc-title="中文文档">
         <toc-element topic="Introduction_CN.md"/>
