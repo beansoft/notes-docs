@@ -39,7 +39,9 @@
         </toc-element>
         <toc-element
                 topic="Visual-Markdown-Editor-CN.md"/>
+        <toc-element topic="Pin-To-Symbol-CN.md"/>
     </toc-element>
+
     <toc-element topic="Demo.md" hidden="true">
     </toc-element>
     <toc-element topic="Educational_Products.topic" hidden="true">
