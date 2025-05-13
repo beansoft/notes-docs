@@ -4,15 +4,15 @@
 
 注意
 : 此功能仍在开发中, 目前只支持 **Java** 语言.
-**Kotlin**, will be supported in the next release.
-Future releases will support more programming languages.
+**Kotlin** 将会在下一个版本支持. 未来版本将支持更多编程语言.
 
-## Benefits
-- Always display notes in the right place when moving symbols away or pulling source code from VCS
-- Unique path for both project files and library files
-- Easily used symbol picker lets you quickly update symbol
+## 优势
+- 当符号在类文件中移动时或者更新代码后, 仍完美显示笔记
+- 对项目文件和库文件使用统一的路径
+- 使用符号选择器可以让你快速更新符号
 
-## Limitations
+## 限制
 
-- Symbol must be unique via all project files including libraries
-- **Java**: Implicitly declared class is not supported. Ref: <a href="https://openjdk.org/jeps/463">JEP 463</a>.
+- 符号必须在项目文件和库中唯一
+- 如果类名发生改变, 需要手动更新符号链接地址
+- **Java**: 不支持隐式声明类. 参考: <a href="https://openjdk.org/jeps/463">JEP 463</a>.
