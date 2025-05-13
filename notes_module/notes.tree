@@ -6,7 +6,6 @@
                   name="Code Notes"
                   start-page="Introduction.md">
     <toc-element topic="Introduction.md"/>
-    <toc-element topic="getting_help.topic" hidden="true"/>
     <toc-element topic="Pricing.md">
     </toc-element>
     <toc-element topic="Special-Community-Offers.md"/>

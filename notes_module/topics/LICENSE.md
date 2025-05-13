@@ -42,4 +42,4 @@ It will also terminate immediately if you fail to comply with any term of this E
 
 This EULA agreement, and any dispute arising out of or in connection with this EULA agreement, shall be governed by and construed in accordance with the laws of China.
 
-# Powered by [open-source software](3rdParty.md)
+Powered by [open-source software](3rdParty.md)

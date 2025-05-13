@@ -48,7 +48,7 @@ Test %product% without risk before buying a license:
 3. On the <control>Marketplace</control> tab, search for `%product%`.
 4. Select the `%product%` plugin and click <control>Install</control>.
 5. Click <control>OK</control> to apply the changes and restart your IDE if prompted.
-    <note> You will need to restart the IDE every time you install a paid plugin. If you skip this step, the plugin will be disabled.</note>
+    <b> You will need to restart the IDE every time you install a paid plugin. If you skip this step, the plugin will be disabled.</b>
 6.  Activate the trial-period by selecting <control>Evaluate for free</control> in the license activation window that pops up.
     ![](start_trial.png) {thumbnail="true"}
 

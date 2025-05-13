@@ -46,7 +46,7 @@
             </a>
         </control>
         , or
-        <a href="Install_EduTools_Plugin.xml" target-switcher-key="IntelliJ IDEA"/>
+        <a href="Demo.md" target-switcher-key="IntelliJ IDEA"/>
         if you have already installed IntelliJ IDEA Community or Ultimate.
     </chapter>
 
@@ -60,7 +60,7 @@
                     </a>
                 </control>
                 , or
-                <a href="Install_EduTools_Plugin.xml" target-switcher-key="IntelliJ IDEA"/>
+                <a href="Demo.md" target-switcher-key="IntelliJ IDEA"/>
                 if you have already installed IntelliJ IDEA Community or Ultimate.
             </tab>
             <tab title="Android Studio">
@@ -68,7 +68,7 @@
                     <a href="https://developer.android.com/studio/index.html">Download Android Studio</a>
                 </control>
                 and
-                <a href="Install_EduTools_Plugin.xml" target-switcher-key="Android Studio"/>.
+                <a href="Demo.md" target-switcher-key="Android Studio"/>.
             </tab>
         </tabs>
     </chapter>
@@ -81,7 +81,7 @@
             </a>
         </control>
         , or
-        <a href="Install_EduTools_Plugin.xml" target-switcher-key="PyCharm"/>
+        <a href="Demo.md" target-switcher-key="PyCharm"/>
         if you have already installed PyCharm Community or Professional.
     </chapter>
 
@@ -92,7 +92,7 @@
             </a>
         </control>
         , or
-        <a href="Install_EduTools_Plugin.xml" target-switcher-key="IntelliJ IDEA"/>
+        <a href="Demo.md" target-switcher-key="IntelliJ IDEA"/>
         if you have already installed IntelliJ IDEA Community or Ultimate.
     </chapter>
 
@@ -105,7 +105,7 @@
             <a href="https://www.jetbrains.com/idea/download">IntelliJ IDEA Ultimate</a> or
             <a href="https://www.jetbrains.com/pycharm/download">PyCharm Professional</a>
          bundled with evaluation license key for a free 30-day trial, and
-        <a href="Install_EduTools_Plugin.xml" target-switcher-key="WebStorm">Install EduTools plugin</a>.
+        <a href="Demo.md" target-switcher-key="WebStorm">Install EduTools plugin</a>.
         <p>If you are a student or academic staff member, apply to our <a href="https://www.jetbrains.com/student/">Educational Licenses Program</a> to get access to all JetBrains desktop products, including WebStorm.
         </p>
     </chapter>
@@ -116,7 +116,7 @@
             <a href="https://www.jetbrains.com/clion/download/">Download CLion
             </a>
         </control> bundled with evaluation license key for a free 30-day trial, and
-        <a href="Install_EduTools_Plugin.xml" target-switcher-key="CLion"/>.
+        <a href="Demo.md" target-switcher-key="CLion"/>.
         <p>Alternatively, you can download <control>
             <a href="https://www.jetbrains.com/education/download/#switcher-key=idea">IntelliJ IDEA Edu
             </a>.
@@ -131,7 +131,7 @@
             <a href="https://www.jetbrains.com/clion/download/">Download CLion
             </a>
         </control> bundled with evaluation license key for a free 30-day trial, and
-        <a href="Install_EduTools_Plugin.xml" target-switcher-key="CLion"/>.
+        <a href="Demo.md" target-switcher-key="CLion"/>.
         <p>If you are a student or academic staff member, apply to our <a href="https://www.jetbrains.com/student/">Educational Licenses Program</a> to get access to all JetBrains desktop products, including CLion.
         </p>
     </chapter>
@@ -143,7 +143,7 @@
             <a href="https://www.jetbrains.com/clion/download/">Download GoLand
             </a></control> or <control><a href="https://www.jetbrains.com/idea/download">IntelliJ IDEA Ultimate</a>
         </control>bundled with evaluation license key for a free 30-day trial, and
-        <a href="Install_EduTools_Plugin.xml" target-switcher-key="GoLand"/>.
+        <a href="Demo.md" target-switcher-key="GoLand"/>.
         <p>If you are a student or academic staff member, apply to our <a href="https://www.jetbrains.com/student/">Educational Licenses Program</a> to get access to all JetBrains desktop products, including GoLand.
         </p>
     </chapter>
@@ -155,7 +155,7 @@
         <a href="https://www.jetbrains.com/phpstorm/download">PhpStorm</a> or
         <a href="https://www.jetbrains.com/idea/download">IntelliJ IDEA Ultimate</a>
         bundled with evaluation license key for a free 30-day trial, and
-        <a href="Install_EduTools_Plugin.xml" target-switcher-key="PhpStorm">Install EduTools plugin</a>.
+        <a href="Demo.md" target-switcher-key="PhpStorm">Install EduTools plugin</a>.
         <p>If you are a student or academic staff member, apply to our
             <a href="https://www.jetbrains.com/student/">Educational Licenses Program</a>
             to get access to all JetBrains desktop products, including PhpStorm.
@@ -169,7 +169,7 @@
                 motivated with instant feedback and quick results!
             </p>
         </chapter>
-        <a href="For_Learners.xml">Learn more</a>
+        <a href="Demo.md">Learn more</a>
     </chapter>
 
     <chapter title="For Educators">

@@ -229,9 +229,9 @@ Example
 </procedure>
 
 ## 图片
-![Getting Service](rnconsole-install-dark.png){thumbnail="true" thumbnail-same-file="true"}
+![Getting Service](free_discount.png){thumbnail="true" thumbnail-same-file="true"}
 
-<img src="screenshot_.gif" alt="" />
+<img src="zoom_ide.gif" alt="" />
 
 [//]: # (![Screenshot]&#40;screenshot_.gif&#41;&#41;{width="32" animated="true"  alt="Alt" border-effect="rounded" thumbnail="true" thumbnail-same-file="true"})
 
@@ -248,15 +248,15 @@ Example
                     </code-block>
                 </td>
                 <td>
-                    <img src="screenshot_.gif" alt="Sample image" width="250"/>
+                    <img src="zoom_ide.gif" alt="Sample image" width="250"/>
                 </td>
             </tr>
 </table>
 
 ## 标签页 + Markdown
 <tabs>
-    <code lang="java">Java code</code>
-    <code lang="groovy">Groovy code</code>
+    <code-block lang="java">Java code</code-block>
+    <code-block lang="groovy">Groovy code</code-block>
 </tabs>
 
 
