@@ -1,6 +1,6 @@
 # Pin notes to symbol
 ![Beta](beta.svg) Pin to symbol is the most powerful feature introduced in 2025.2, which allows link notes to a programming language's symbol
-such as **class**, **field** or **methods** instead link the lines of source code.
+such as **class**, **field** or **methods** instead link the absolute lines of source code.
 
 Notes
 : This feature is still under development and only supports **Java** language.
