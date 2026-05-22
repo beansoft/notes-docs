@@ -5,7 +5,7 @@
 注意
 : 此功能仍在开发中, 目前只支持 **Java, Kotlin和C#** 语言.
 
-ℹ️: C# 语言支持需要安装插件 [Code Notes for C#](https://plugins.jetbrains.com/plugin/17501-code-notes-project-notes-java-pin-notes)，目前只能在Rider开发工具中支持。
+ℹ️: C# 语言支持需要安装插件 [Code Notes for C#](https://plugins.jetbrains.com/plugin/31914-code-notes-for-c-beta)，目前只能在Rider开发工具中支持。
 
 ## 优势
 - 当符号在类文件中移动时或者更新代码后, 仍完美在正确位置显示笔记

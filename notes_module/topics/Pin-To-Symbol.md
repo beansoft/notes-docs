@@ -6,7 +6,7 @@ Notes
 : This feature is still under development and only supports **Java, Kotlin, C#** language.
 Future releases will support more programming languages.
 
-ℹ️: C# support [Code Notes for C#](https://plugins.jetbrains.com/plugin/17501-code-notes-project-notes-java-pin-notes) plugin installed, also only works under the Rider IDE.
+ℹ️: C# support [Code Notes for C#](https://plugins.jetbrains.com/plugin/31914-code-notes-for-c-beta) plugin installed, also only works under the Rider IDE.
 
 ## Benefits
 - Always display notes in the right place when moving symbols away or pulling source code from VCS
