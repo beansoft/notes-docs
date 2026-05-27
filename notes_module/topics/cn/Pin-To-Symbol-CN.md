@@ -3,7 +3,7 @@
 而不是固定链接到源代码的绝对行号.
 
 注意
-: 此功能仍在开发中, 目前只支持 **Java, Kotlin和C#** 语言.
+: 此功能仍在开发中, 目前只支持 **Java, Kotlin, C#, PHP, TypeScript** 语言.
 
 ℹ️: C# 语言支持需要安装插件 [Code Notes for C#](https://plugins.jetbrains.com/plugin/31914-code-notes-for-c-beta)，目前只能在Rider开发工具中支持。
 
