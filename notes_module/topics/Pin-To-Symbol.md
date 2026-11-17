@@ -1,9 +1,9 @@
 # Pin notes to symbol
 ![Beta](beta.svg) Pin to symbol is the most powerful feature introduced in 2025.2, which allows link notes to a programming language's symbol
-such as **class**, **field** or **methods** instead link the absolute line number of source code.
+, such as **class**, **field** or **methods** instead link the absolute line number of source code.
 
 Notes
-: This feature is still under development and only supports **Java, Kotlin, C#** language.
+: This feature is still under development and only supports **Java, Kotlin, C#, PHP, and TypeScript** language.
 Future releases will support more programming languages.
 
 ℹ️: C# support [Code Notes for C#](https://plugins.jetbrains.com/plugin/31914-code-notes-for-c-beta) plugin installed, also only works under the Rider IDE.
@@ -11,9 +11,9 @@ Future releases will support more programming languages.
 ## Benefits
 - Always display notes in the right place when moving symbols away or pulling source code from VCS
 - Unique path for both project files and library files
-- Easily used symbol picker lets you quickly update symbol
+- Easily used symbol picker lets you quickly update the symbol
 
 ## Limitations
-
-- Symbol must be unique via all project files including libraries
+- Only supports OOP class/object, doesn't support files without class/object defination
+- Symbol must be unique across all project files, including libraries
 - **Java**: Implicitly declared class is not supported. Ref: <a href="https://openjdk.org/jeps/463">JEP 463</a>.
